@@ -9,7 +9,7 @@ Download the file and open within Cisco Packet Tracer, from here you can simulat
 
 N.B - There seems to be a bug with the network address translation (NAT) on the Cisco ASA 5506x in Packet Tracer version 8.2.2.
 
-This network is by no means complete. Further development is required around virtal local area network (VLAN) and dynamic host configuration protocol (DHCP) setup.
+This network is by no means complete. Further development is required around virtual local area network (VLAN) and dynamic host configuration protocol (DHCP) setup.
 
 You are free to use this network as you wish but it is mandatory to give me credit when using it. 
 
