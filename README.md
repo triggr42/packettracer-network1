@@ -7,3 +7,8 @@ N.B - There seems to be a bug with the network address translation (NAT) on the 
 ## Usage
 Download the file and open within Cisco Packet Tracer, from here you can simulate the network.
 
+## Disclaimer
+
+You are free to use this network as you wish but it is mandatory to give me credit when using it. 
+
+
