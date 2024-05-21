@@ -7,7 +7,8 @@ Download the file and open within Cisco Packet Tracer, from here you can simulat
 
 ## Disclaimer
 
-N.B - There seems to be a bug with the network address translation (NAT) on the Cisco ASA 5506x in Packet Tracer version 8.2.2.
+N.B - There seems to be a bug with the network address translation (NAT) on the Cisco ASA 5506x when using Dynamic NAT from a singular private IP to the EXTERNAL assigned IP address in Packet Tracer version 8.2.2. ANY COMMENTS ON THIS ARE WELCOME.
+
 
 This network is by no means complete. Further development is required around virtual local area network (VLAN) and dynamic host configuration protocol (DHCP) setup.
 
